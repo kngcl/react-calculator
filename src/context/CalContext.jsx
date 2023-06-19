@@ -18,5 +18,4 @@ export const CalcContext = createContext();
     </CalcContext.Provider>
   );
 }
-
 export default CalcProvider;
