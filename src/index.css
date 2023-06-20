@@ -16,7 +16,9 @@ body {
 .screen {
   height: 4rem;
   margin-bottom: 4rem;
+  font-size: 1rem;
 }
+
 
 .buttonBox {
   display: grid;
